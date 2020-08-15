@@ -1,4 +1,4 @@
-# Asus M5A97LE R2.0 AMD FX Hackintosh 
+# Asus M5A97 LE R2.0 AMD FX Hackintosh 
 
 ## MacOS Catalina
 **Current Status**: Not Stable  
@@ -14,7 +14,7 @@
 - Wake
 - Fan Control
 
-**You have to change "TO BE CHANGED" lines in Config.plist (SystemSerialNumber, SystemUUID, ROM, MLB) You can use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for that**  
+**You have to change "TO BE CHANGED" lines in Config.plist (SystemSerialNumber, SystemUUID, ROM, MLB) You can use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for that.**  
   
 **My Specs**  
 **CPU**: AMD FX-6300  
