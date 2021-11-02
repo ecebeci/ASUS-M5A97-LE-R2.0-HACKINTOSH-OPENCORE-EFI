@@ -1,5 +1,4 @@
-# Asus M5A97 LE R2.0 AMD FX Hackintosh 
-
+# Project is stalled | Asus M5A97 LE R2.0 AMD FX Hackintosh 
 ## MacOS Catalina
 **Current Status**: Not Stable  
 **Bootloader**: OpenCore 0.5.9    
